@@ -28,7 +28,11 @@ As already stated the OS of this little machine is **Unraid Server OS.**<br>
 - **InfluxDB** 
 - **NodeRED** 
 - **UniFi** 
-
+- **Plex-Media-Server**
+- **AdGuard-Home**
+- **neolink**
+- **Visual Studio Code**
+- **UniFi-Poller**
 
 ---
 

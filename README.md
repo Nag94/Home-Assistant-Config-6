@@ -3,7 +3,6 @@
 	<h1 align=center style="margin: 0;"> Home Assistant Setup</h1>
 </p>
 
----
 ### Last update: xx.xx.xxxx
 Home Assistant configuration.
 
